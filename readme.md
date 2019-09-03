@@ -7,5 +7,4 @@ Project built to teach how to develop a REST API with Lumen Micro Framework.
 
 #### Italo Nabuco<br>Full Stack Developer<br>
 italonabuco@hotmail.com<br>
-Whatsapp: +55 (99) 8189-4692<br>
 
